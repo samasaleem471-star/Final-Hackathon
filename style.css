@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.image-main{
+    padding: 0% !important;
+}
+.para{
+    margin-bottom: 85px;
+}
+.main-heading{
+     padding: 0% 150px;
+}
+.heading{
+    margin-bottom: 100px;
+    margin-top: 300px;
+   
+}
+
+.btn-hero{
+    color: black !important;
+    border-radius:  50px;
+    padding: 15px 50px;
+    background: linear-gradient(#86FDE8,#86FDE8);
+}
+.image{
+    background: linear-gradient(to bottom, #C2E4E7, #97CDD2);
+    width: 100% !important;
+}
